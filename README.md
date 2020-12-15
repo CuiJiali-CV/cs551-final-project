@@ -24,6 +24,7 @@
 * You might need to download the dataset from here
 
 <br />
+
 ## Checkpoint
 * After you train the network, you need to edit args.py --resume with your checkpoint path. And then run app_.py.
 
